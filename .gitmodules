@@ -1,0 +1,3 @@
+[submodule "boris"]
+	path = boris
+	url = https://github.com/borisrepl/boris.git
